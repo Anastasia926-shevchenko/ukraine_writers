@@ -1,6 +1,5 @@
 The following GIT topics and commands were covered in previous lessons:
 
-
 -introduction to GIT
 -local and global repositories
 - git status command
